@@ -1,2 +1,0 @@
-# KOIL
-custom automotive fabrication
