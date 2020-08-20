@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "CrassRoots";
+  src: url("https://koilindustries.github.io/KOIL/wp-content/plugins/static-html-output-plugin/vendor/sabberworm/php-css-parser/tests/media/cr.ttf")
+}
+	
+html, body {
+	font-size: 1.6em
+}
